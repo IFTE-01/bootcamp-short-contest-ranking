@@ -1,0 +1,46 @@
+BEGINNER CATEGORY
+1st place
+Name : Abir Islam
+id : C251090
+section : 4CM
+Vjudge : abirIslam
+overall Rank : 1
+..................................
+2nd place
+Name : MD. Saharaj Alam Miazi
+id : C251056
+section : 4BM
+Vjudge : Shawon_miazi56
+overall Rank : 2
+..................................
+3rd place
+Name : Miftahul Islam
+id : C243002
+section : 4CM
+Vjudge : Nyato
+overall Rank : 3
+..................................
+
+
+NEWCOMER CATEGORY
+1st place
+Name : Jubair ul Karim Khan
+id : C261054
+section : 2CM
+Vjudge : Jubair_k
+overall Rank : 4
+..................................
+2nd place
+Name : MD. Mahadi Hasan Fahim
+id : C261150
+section : 2DM
+Vjudge : Code_0216
+overall Rank : 6
+..................................
+3rd place
+Name : Abdullah Al Azmain
+id : C261037
+section : 2AM
+Vjudge : abdullahalazmain
+overall Rank : 8
+..................................
